@@ -3,6 +3,7 @@ shopt -s expand_aliases
 set -E
 
 # Variables
+eval "$(docker-machine env default)"
 docker_ip=$(docker-machine ip default)
 kibana=http://$docker_ip:9200/.kibana
 
