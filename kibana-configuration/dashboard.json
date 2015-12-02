@@ -1,0 +1,15 @@
+  {
+      "title": "Sky Scanner - Stanislaw Wozniak",
+      "hits": 0,
+      "description": "",
+      "panelsJSON": "[{\"id\":\"Bytes-per-minute\",\"type\":\"visualization\",\"panelIndex\":1,\"size_x\":5,\"size_y\":3,\"col\":1,\"row\":4},{\"id\":\"Mean-response-time-per-minute\",\"type\":\"visualization\",\"panelIndex\":2,\"size_x\":5,\"size_y\":3,\"col\":6,\"row\":4},{\"id\":\"Success-vs-Error-over-time\",\"type\":\"visualization\",\"panelIndex\":3,\"size_x\":10,\"size_y\":3,\"col\":1,\"row\":1},{\"id\":\"Requests\",\"type\":\"search\",\"panelIndex\":4,\"size_x\":10,\"size_y\":5,\"col\":1,\"row\":7,\"columns\":[\"client_ip\",\"method\",\"request_page\",\"server_response\"],\"sort\":[\"@timestamp\",\"desc\"]}]",
+      "optionsJSON": "{\"darkTheme\":true}",
+      "uiStateJSON": "{}",
+      "version": 1,
+      "timeRestore": true,
+      "timeTo": "2015-03-30T09:15:39.321Z",
+      "timeFrom": "2015-03-30T03:59:56.601Z",
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"filter\":[{\"query\":{\"query_string\":{\"query\":\"*\",\"analyze_wildcard\":true}}}]}"
+      }
+    }
