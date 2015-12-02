@@ -9,3 +9,13 @@ In order to run this demo you need to be on a mac and have docker toolbox instal
 ## Assumptions
 
 * Docker machine name is default
+
+## How to use
+
+Clone the repository and execute start.sh command:
+
+```bash
+git clone https://github.com/sponte/log-parsing
+cd log-parsing
+./start.sh
+```
