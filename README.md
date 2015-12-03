@@ -5,6 +5,7 @@ In order to run this demo you need to be on a mac and have docker toolbox instal
 ## Prerequisites
 
 * Docker toolbox installed and Docker Virtual maching created and running - instructions available at http://docs.docker.com/mac/started/
+* Java 7 or later
 
 ## Assumptions
 
